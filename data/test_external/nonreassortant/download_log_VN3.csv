@@ -1,0 +1,12 @@
+Isolate,Status,Reason
+A_duck_Vietnam_NCVD-2153_2012,Downloaded,Complete 8 segments
+A_chicken_Vietnam_NCVD-2716_2013,Downloaded,Complete 8 segments
+A_duck_Vietnam_NCVD-2721_2013,Downloaded,Complete 8 segments
+A_duck_Vietnam_NCVD-2722_2013,Downloaded,Complete 8 segments
+A_chicken_Vietnam_NCVD-2750_2013,Downloaded,Complete 8 segments
+A_duck_Vietnam_NCVD-0139_2013,Downloaded,Complete 8 segments
+A_duck_Vietnam_NCVD-0193_2012,Downloaded,Complete 8 segments
+A_duck_Vietnam_NCVD-3799_2013,Skipped,PA (KY171261) partial cds
+A_duck_Vietnam_NCVD-3801_2013,Skipped,PA (KY171014) partial cds
+A_duck_Vietnam_NCVD-3804_2013,Skipped,PB1 (KY171021) partial cds
+A_duck_Vietnam_R7-05-0158_2013,Skipped,PB2 (KY171267) partial cds
