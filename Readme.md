@@ -8,7 +8,7 @@ In addition to classification, a Graph Attention Network (GAT) is used to model 
 ### This work was accepted at the NeurIPS 2025 2nd Workshop on Foundation Models for Life Sciences (FM4LS). [OpenReview Paper](https://openreview.net/forum?id=uGrHjgDbBF)
 
 <p align="center">
-  <img src="assets/Reassortment_in_Influenza_A_virus.png" width="1800">
+  <img src="assets/Reassortment_in_Influenza_A_virus.jpeg" width="1800">
 </p>
 
 ## Why Reassortment Prediction Matters
