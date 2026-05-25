@@ -7,8 +7,9 @@ In addition to classification, a Graph Attention Network (GAT) is used to model 
 
 ### This work was accepted at the NeurIPS 2025 2nd Workshop on Foundation Models for Life Sciences (FM4LS). [OpenReview Paper](https://openreview.net/forum?id=uGrHjgDbBF)
 
-![Alt text](assets/Reassortment_in_Influenza_A_virus.png)
-
+<p align="center">
+  <img src="assets/Reassortment_in_Influenza_A_virus.png" width="900">
+</p>
 ## Why Reassortment Prediction Matters
 
 Influenza A viruses have segmented genomes, which allows whole genome segments to be exchanged when two viruses co-infect the same host. This process, known as reassortment enables rapid viral evolution and generates novel viral genotypes with altered host range, transmissibility, or pandemic potential.
