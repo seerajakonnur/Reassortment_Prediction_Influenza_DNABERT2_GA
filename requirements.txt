@@ -1,0 +1,13 @@
+biopython
+matplotlib
+networkx
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+torch
+torch-geometric
+transformers
+umap-learn
+tqdm
