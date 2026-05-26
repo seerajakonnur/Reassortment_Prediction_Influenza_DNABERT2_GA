@@ -142,12 +142,12 @@ python scripts/rf_classifier_gridsearch_fixed.py
 
 #### Genetic Algorithms:
 ```python
-python scripts/Genetic_algorithm.py
+python scripts/genetic_algorithm.py
 ```
 
 #### Run GAT-based segment interaction analysis:
 ```python
-python scripts/GNN_GAT_with_attention.py
+python scripts/gnn_gat_with_attention.py
 ```
 
 #### Generate GAT interaction graphs:
