@@ -161,7 +161,7 @@ Note: Some raw sequence files may not be included directly in this repository du
 ## Repository Structure
 
 ```text
-Reassortment_Prediction_Avian_Influenza/
+Reassortment_Prediction_Influenza_DNABERT2_GA/
 │
 ├── assets/          # Figures and visual assets used in the README
 ├── data/            # Input metadata or curated dataset files
